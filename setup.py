@@ -13,7 +13,7 @@ setup(
 	author_email="bernard.infosystems@gmail.com",
 	license="MIT License: Copyright (c) 2017 Maurice Green",
 	keywords="linux zabbix vmware python command-line-tool",
-	url='http://github.com/Bernard2324/sysware_cmd',
+	url='http://github.com/Bernard2324/sys_cmd',
 	classifiers=[
 		"Programming Language :: Python",
 		"Programming Language :: Python :: 2.7",
