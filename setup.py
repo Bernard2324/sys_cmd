@@ -3,7 +3,7 @@
 from setuptools import setup
 
 setup(
-	name='sysware_cmd',
+	name='sys_cmd',
 	version='1.1.1',
 	install_requires = [
 		"requests>=1.0"
@@ -23,6 +23,6 @@ setup(
 		"Natural Language :: English",
 		"Topic :: System :: Systems Administration"
 	],
-	packages=['sysware_cmd', 'sysware_cmd.connections', 'sysware_cmd.vmware', 'sysware_cmd.shell', 'sysware_cmd.zabbix', 'sysware_cmd.connections.libraryapi', 'sysware_cmd.connections.Exceptions']
+	packages=['sys_cmd', 'sys_cmd.connections', 'sys_cmd.vmware', 'sys_cmd.shell', 'sys_cmd.zabbix', 'sys_cmd.connections.libraryapi', 'sys_cmd.connections.Exceptions']
 )
 
