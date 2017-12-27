@@ -1,4 +1,4 @@
-[![ld Status](https://travis-ci.org/Bernard2324/sysware_cmd.svg?branch=master)](https://travis-ci.org/Bernard2324/sysware_cmd)
+[![ld Status](https://travis-ci.org/Bernard2324/sys_cmd.svg?branch=master)](https://travis-ci.org/Bernard2324/sys_cmd)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Sysware CMD:   A Command line tool for Linux Admins 
 
