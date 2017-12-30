@@ -1,7 +1,7 @@
 [![ld Status](https://travis-ci.org/Bernard2324/sys_cmd.svg?branch=master)](https://travis-ci.org/Bernard2324/sys_cmd)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [<a href="https://www.github.com/Bernard2324/sys_cmd" target="_blank">![sys_cmd](https://img.shields.io/pypi/v/nine.svg)]()
-# Sysware CMD:   A Command line tool for Linux Admins 
+# Sys_cmd:   A Command line tool for Linux Admins 
 
 This is a command line tool to help make my job as a Systems Engineer a little easier.  This happens to be my first actual 'project'
 I normally write scripts and stop there.  I will be adding additional components such as SPLUNK, AWS, and various security features to
